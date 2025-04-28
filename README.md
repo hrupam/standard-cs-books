@@ -28,10 +28,6 @@ This repository aims to:
 
 Each subject directory contains relevant textbooks and resources. Navigate to the desired subject area to find the materials you need.
 
-## 📜 License
-
-Please respect the copyright of the materials contained in this repository. The organization of this repository is provided under the MIT License, but individual books may have their own copyright restrictions.
-
 ## 🤝 Contributing
 
 Contributions to this repository are welcome! If you'd like to add new resources or suggest improvements, please:
