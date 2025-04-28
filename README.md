@@ -4,16 +4,16 @@ A curated collection of standard computer science textbooks and resources organi
 
 ## 📚 Subject Areas
 
-- [C Programming](C%20Programming/)
-- [Computer Networks](Computer%20Networks/)
-- [Computer Organization and Architecture](Computer%20Organization%20and%20Architecture/)
-- [Compiler Design](Compiler%20Design/)
-- [Data Structures and Algorithms](Data%20Structures%20and%20Algorithms/)
-- [Databases](Databases/)
-- [Digital Logic](Digital%20Logic/)
-- [Discrete Mathematics](Discrete%20Mathematics/)
-- [Operating Systems](Operating%20Systems/)
-- [Theory of Computation](Theory%20of%20Computation/)
+- [C Programming](C%20Programming/) - Kernighan & Ritchie, Herbert Schildt
+- [Computer Networks](Computer%20Networks/) - Andrew Tanenbaum, Kurose & Ross, Peterson & Davie, Forouzan
+- [Computer Organization and Architecture](Computer%20Organization%20and%20Architecture/) - Hennessy & Patterson, Carl Hamacher, Morris Mano, William Stallings
+- [Compiler Design](Compiler%20Design/) - Aho, Lam, Sethi & Ullman
+- [Data Structures and Algorithms](Data%20Structures%20and%20Algorithms/) - Narasimha, Sartaj Sahni, CLRS
+- [Databases](Databases/) - Ullman, Korth, Navathe
+- [Digital Logic](Digital%20Logic/) - Morris Mano, R.P. Jain
+- [Discrete Mathematics](Discrete%20Mathematics/) - Kenneth Rosen, Oscar Levin
+- [Operating Systems](Operating%20Systems/) - Galvin, William Stallings
+- [Theory of Computation](Theory%20of%20Computation/) - Hopcroft, Motwani & Ullman, Peter Linz
 
 ## 🎯 Purpose
 
