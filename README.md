@@ -1,87 +1,84 @@
 # Standard Computer Science Books
 
-A curated collection of standard computer science textbooks and resources organized by subject area. This repository serves as a reference for essential computer science literature.
+A curated collection of classic and widely used computer science textbooks, organized by subject.
 
-## 📚 Subject Areas
+> **Note:** PDF files are tracked using [Git LFS](https://git-lfs.github.com/).  
+> Make sure you have Git LFS installed to access the books.
 
-- [C Programming](C%20Programming/)
+---
 
-  - _C The Complete Reference 4th Ed_ by Herbert Schildt
-  - _The C Programming Language (2nd Edition)_ by Kernighan & Ritchie
+## 📚 Contents
 
-- [Compiler Design](Compiler%20Design/)
+### C Programming
 
-  - _Compilers: Principles, Techniques, and Tools_ by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
+- C The Complete Reference 4th Ed — Herbert Schildt
+- The C Programming Language (2nd Edition) — Brian W. Kernighan, Dennis M. Ritchie
 
-- [Computer Networks](Computer%20Networks/)
+### Compiler Design
 
-  - _Computer Networks_ by Andrew S. Tanenbaum
-  - _Computer Networking: A Top-Down Approach_ by Kurose & Ross
-  - _Computer Networks_ by Peterson & Davie
-  - _Data Communications and Networking (5th Edition)_ by Forouzan
+- Compilers: Principles, Techniques, and Tools — Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
 
-- [Computer Organization and Architecture](Computer%20Organization%20and%20Architecture/)
+### Computer Networks
 
-  - _Computer Organization and Architecture (10th Edition)_ by William Stallings
-  - _Computer Architecture: A Quantitative Approach_ by Hennessy & Patterson
-  - _Computer Organization and Design_ by Carl Hamacher
-  - _Digital Design and Computer Architecture_ by Morris Mano
+- Computer Networks — Andrew S. Tanenbaum
+- Computer Networking: A Top-Down Approach — Kurose, Ross
+- Computer Networks — Peterson, Davie
+- Data Communications and Networking (5th Edition) — Behrouz A. Forouzan
 
-- [Data Structures and Algorithms](Data%20Structures%20and%20Algorithms/)
+### Computer Organization and Architecture
 
-  - _Introduction to Algorithms (3rd Edition)_ by Cormen, Leiserson, Rivest, and Stein (CLRS)
-  - _Data Structures and Algorithms_ by Narasimha Karumanchi
-  - _Data Structures, Algorithms, and Applications in C++_ by Sartaj Sahni
+- Computer Organization and Architecture (10th Edition) — William Stallings
+- Computer Architecture — Hennessy, Patterson
+- Computer Organization and Design — Carl Hamacher
+- Digital Design and Computer Architecture — Morris Mano
 
-- [Databases](Databases/)
+### Data Structures and Algorithms
 
-  - _Database System Concepts_ by Korth
-  - _Fundamentals of Database Systems_ by Navathe
-  - _Principles of Database and Knowledge-Base Systems_ by Ullman
-  - _Boyce-Codd Normal Form Research Paper_
+- Introduction to Algorithms (3rd Edition) — Cormen, Leiserson, Rivest, Stein (CLRS)
+- Data Structures and Algorithms — Narasimha Karumanchi
+- Data Structures, Algorithms, and Applications in C++ — Sartaj Sahni
 
-- [Digital Logic](Digital%20Logic/)
+### Databases
 
-  - _Digital Logic and Computer Design_ by M. Morris Mano
-  - _Digital Electronics_ by R.P. Jain
-  - _Digital Electronics_ by Floyd
+- Database System Concepts — Korth
+- Fundamentals of Database Systems — Navathe
+- Principles of Database and Knowledge-Base Systems — Ullman
+- Boyce-Codd Research Paper
 
-- [Discrete Mathematics](Discrete%20Mathematics/)
+### Digital Logic
 
-  - _Discrete Mathematics and Its Applications_ by Kenneth Rosen
-  - _Discrete Mathematics_ by Oscar Levin
+- Digital Logic and Computer Design (2nd Edition) — M. Morris Mano
+- Digital Electronics — R.P. Jain
+- Digital Electronics — Floyd
 
-- [Operating Systems](Operating%20Systems/)
+### Discrete Mathematics
 
-  - _Operating System Concepts (8th Edition)_ by Galvin
-  - _Operating Systems: Internals and Design Principles_ by William Stallings
+- Discrete Mathematics and Its Applications — Kenneth Rosen
+- Discrete Mathematics — Oscar Levin
 
-- [Theory of Computation](Theory%20of%20Computation/)
-  - _Introduction to Automata Theory, Languages, and Computation_ by Hopcroft, Motwani & Ullman
-  - _An Introduction to Formal Languages and Automata_ by Peter Linz
+### Operating Systems
 
-## 🎯 Purpose
+- Operating System Concepts (8th Edition) — Silberschatz, Galvin
+- Operating Systems: Internals and Design Principles — William Stallings
 
-This repository aims to:
+### Theory of Computation
 
-- Provide a centralized collection of standard computer science textbooks.
-- Organize resources by subject area for easy access.
-- Serve as a reference for students and professionals in computer science.
-- Maintain a collection of essential reading materials for computer science education.
+- Introduction to Automata Theory, Languages, and Computation — Hopcroft, Motwani, Ullman
+- An Introduction to Formal Languages and Automata — Peter Linz
+- Automata and Computability — Dexter C. Kozen
 
-## 📖 Usage
+---
 
-Each subject directory contains relevant textbooks and resources. Navigate to the desired subject area to find the materials you need.
+## 🗂️ Directory Structure
 
-## 🤝 Contributing
+- Each subject is a folder containing relevant PDF books.
+- Utility scripts and file lists are ignored by git (see `.gitignore`).
 
-Contributions to this repository are welcome! If you'd like to add new resources or suggest improvements, please:
+---
 
-1. Fork the repository.
-2. Create a new branch.
-3. Add your contributions.
-4. Submit a pull request.
+## 🚀 Usage
 
-## 📞 Contact
-
-For any questions or suggestions, please open an issue in this repository.
+1. **Clone the repository:**
+   ```sh
+   git clone <repository-url>
+   ```
