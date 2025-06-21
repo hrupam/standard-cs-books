@@ -1,12 +1,3 @@
-# Standard Computer Science Books
-
-A curated collection of classic and widely used computer science textbooks, organized by subject.
-
-> **Note:** PDF files are tracked using [Git LFS](https://git-lfs.github.com/).  
-> Make sure you have Git LFS installed to access the books.
-
----
-
 ## 📚 Contents
 
 ### C Programming
@@ -27,23 +18,24 @@ A curated collection of classic and widely used computer science textbooks, orga
 
 ### Computer Organization and Architecture
 
-- Computer Organization and Architecture (10th Edition) — William Stallings
+- COA — Carl Hamacher
+- COA — Morris Mano
 - Computer Architecture — Hennessy, Patterson
-- Computer Organization and Design — Carl Hamacher
-- Digital Design and Computer Architecture — Morris Mano
+- Computer Organization and Architecture (10th edition) — William Stallings
 
 ### Data Structures and Algorithms
 
-- Introduction to Algorithms (3rd Edition) — Cormen, Leiserson, Rivest, Stein (CLRS)
+- Algorithms (3rd Edition) — Cormen, Leiserson, Rivest, Stein (CLRS)
 - Data Structures and Algorithms — Narasimha Karumanchi
 - Data Structures, Algorithms, and Applications in C++ — Sartaj Sahni
 
 ### Databases
 
+- Boyce Codd Research Paper
 - Database System Concepts — Korth
 - Fundamentals of Database Systems — Navathe
+- Database Management Systems (3rd Edition) — Raghu Ramakrishnan
 - Principles of Database and Knowledge-Base Systems — Ullman
-- Boyce-Codd Research Paper
 
 ### Digital Logic
 
@@ -55,6 +47,7 @@ A curated collection of classic and widely used computer science textbooks, orga
 
 - Discrete Mathematics and Its Applications — Kenneth Rosen
 - Discrete Mathematics — Oscar Levin
+- Discrete Mathematics — Grimaldi
 
 ### Operating Systems
 
@@ -63,22 +56,6 @@ A curated collection of classic and widely used computer science textbooks, orga
 
 ### Theory of Computation
 
-- Introduction to Automata Theory, Languages, and Computation — Hopcroft, Motwani, Ullman
-- An Introduction to Formal Languages and Automata — Peter Linz
 - Automata and Computability — Dexter C. Kozen
-
----
-
-## 🗂️ Directory Structure
-
-- Each subject is a folder containing relevant PDF books.
-- Utility scripts and file lists are ignored by git (see `.gitignore`).
-
----
-
-## 🚀 Usage
-
-1. **Clone the repository:**
-   ```sh
-   git clone <repository-url>
-   ```
+- Introduction to Automata Theory, Languages, and Computation — Hopcroft, Motwani, Ullman
+- An Introduction to Formal Languages and Automata
